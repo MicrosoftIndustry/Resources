@@ -1,68 +1,69 @@
-# Manufacturing Solutions (In Progress...)
+# Microsoft for Manufacturing
 
-## Industrial IoT (IIoT)
+## Intelligent Manufacturing Resources
 
-- [Azure IoT Reference Architecture](http://aka.ms/iotrefarchitecture)
+- [Manufacturing a resilient and sustainable future](https://www.microsoft.com/en-us/industry/manufacturing)
 
-#### Connected Factory
+- [The Open Manufacturing Platform](https://www.microsoft.com/en-us/industry/open-manufacturing-platform)
 
-- [Connecting RSLinx(OPC DA) with IoT Central](https://github.com/jomit/iot-central/tree/master/connect-opc-da)
-
-- [Setup Analytics Pipeline with IoT Central](https://github.com/jomit/iot-central/tree/master/analytics)
-
-#### Remote Monitoring
-
-#### Edge Computing
-
-- [Azure IoT Edge Smart Contract Module for Blockchain](https://github.com/jomit/blockchain-iot-edge)
+- [Manufacturing Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/manufacturing/)
 
 
-## Machine Learning and Artifical Intelligence
+## Industrial IoT (IIoT) Platform
 
-#### Predictive Maintenance
+- [Azure Industrial IoT Platform Architecture](https://github.com/Azure/industrial-iot#discover-register-and-manage-your-industrial-assets-with-azure)
 
-- [End to end Predictive Maintenance Workshop](https://github.com/jomit/amlworkshop)
+- [How open IIoT approach makes manufacturers more agile](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2020/02/06/how-our-open-iiot-approach-makes-manufacturers-more-agile/)
 
-- [Predictive Maintenace with Automated Machine Learning](https://github.com/jomit/AMLWorkshop/blob/master/4-Training/Training_AutoML.ipynb)
+- [IoT in discrete manufacturing](https://azure.microsoft.com/en-us/overview/iot/industry/discrete-manufacturing/)
 
-#### Anomaly Detection
+- [IoT in process manufacturing](https://azure.microsoft.com/en-us/overview/iot/industry/process-manufacturing/)
 
-#### Quality Assurance
+- [Azure Stack Edge]
 
-#### Inventory Optimization 
+## Edge in Manufacturing
 
-#### Demand Forecasting
+- [Azure Stack Edge, AI-enabled edge computing device](https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-overview)
 
-#### Distributed Machine Learning on Encrypted data (fully-homomorphic encryption) stored in Azure
+- [Hybrid cloud solutions](https://azure.microsoft.com/en-us/solutions/hybrid-cloud-app/)
 
+- [Custom vision + Azure Stack Edge for Factory AI](https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/factory-ai-vision)
 
-## Supply Chain Optimization
+- [Building an Edge AI Manufacturing Solution](https://mybuild.microsoft.com/sessions/356a9c0b-4be4-4cee-8c47-e478e8776820?source=sessions)
 
-#### End to end Supply Chain Visibility
+## AI in Manufacturing
 
-#### Dispute Resolution using Blockchain
+- [The Future Computed: AI and Manufacturing (ebook)](https://news.microsoft.com/futurecomputed/#news)
 
-#### Provenance using Blockchain
+- [AI Business School for manufacturing](https://www.microsoft.com/en-us/ai/business?activetab=pivot1:primaryr6)
 
-- [Supply Chain smartcontracts using Ethereum and Quorum](https://github.com/jomit/blockchainchalktalk/tree/master/supplychain)
+- [AI Guide for Predictive Maintenance](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/predictive-maintenance-playbook)
 
-- [Upgradaable Smart Contracts](https://github.com/jomit/blockchainchalktalk/tree/master/supplychain/upgradeablecontract)
+- [Getting started with machine learning](https://azure.microsoft.com/en-us/overview/ai-platform/dev-resources/)
 
-
-# Cross Industry
-
-## Bots
-
-- [Bot Workshop](https://github.com/jomit/BotWorkshop)
-
-#### Helpdesk & Finance Automation
-
-- [Building Accounts Payable Bot using Azure Bot Service](https://github.com/jomit/ap-bot)
+- [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/)
 
 
-## Application Modernization
+## RPA, Automation and Bots
 
-#### Microservices
+- Power Automate - Power Virtual Agents, UI Flows, AI Builder...
 
-#### Container Orchestration
+- Logic Apps - 
+
+- [Enterprise Assistant Solution Accelerator](https://microsoft.github.io/botframework-solutions/solution-accelerators/assistants/enterprise-assistant/)
+
+- [Accounts Payable Bot](https://github.com/jomit/ap-bot)
+
+## Solutions, GitHub Samples
+
+- [Connected Field Service SaaS Solution](https://docs.microsoft.com/en-us/dynamics365/field-service/cfs-iot-overview)
+
+- [Connected Factory Solution Accelerator](https://www.microsoftazureiotsuite.com/demos/connectedfactory)
+
+- [Serverless Anomaly Detection](https://github.com/jomit/anomaly-detection)
+
+- [Real-time predictions on manufacturing quality](https://github.com/jomit/real-time-prediction)
+
+- [Predictive Maintenance Workshop](https://github.com/jomit/amlworkshop)
+
 
